@@ -2,7 +2,7 @@
  
 
 ## Presentation
-  ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)https://github.com/Arkcoz/full-page-smooth-scrolling/full-page-smooth-scrolling.gif
+  ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)https://github.com/Arkcoz/full-page-smooth-scrolling/blob/main/full-page-smooth-scrolling.gif
 
 Smooth scrolling full page with react vanilla
 ## Install
